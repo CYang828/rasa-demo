@@ -1,0 +1,4575 @@
+[
+  {
+    "text": "Are u developed in rasa",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 4,
+        "end": 5,
+        "confidence_entity": 0.7322688698768616,
+        "value": "u",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what else do you know besides English?",
+    "entities": [
+      {
+        "start": 30,
+        "end": 37,
+        "value": "English",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "you know French",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "French",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what is rasa",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "value": "rasa",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "RASA IS SOFTWARE?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.4795672297477722,
+        "value": "RASA",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "whats rasax",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "value": "rasax",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is Rasa X separate from Rasa?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "value": "Rasa X",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 9,
+        "confidence_entity": 0.7678406834602356,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 24,
+        "end": 28,
+        "confidence_entity": 0.7211693525314331,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how does rasa x relate to rasa core",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "rasa x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 9,
+        "end": 15,
+        "confidence_entity": 0.6763720512390137,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 26,
+        "end": 30,
+        "confidence_entity": 0.5264488458633423,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 31,
+        "end": 35,
+        "confidence_entity": 0.9482976794242859,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is rasax",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "rasax",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what are the channels Rasa NLU supports",
+    "entities": [
+      {
+        "start": 27,
+        "end": 30,
+        "value": "NLU",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Do I need both Rasa and Rasa X?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "value": "Rasa",
+        "entity": "product"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "value": "Rasa X",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.7292943596839905,
+        "value": "both",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 15,
+        "end": 19,
+        "confidence_entity": 0.660679817199707,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 24,
+        "end": 30,
+        "confidence_entity": 0.9619126915931702,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "install rasa x with or without rasa open source ?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "rasa x",
+        "entity": "product"
+      },
+      {
+        "start": 31,
+        "end": 47,
+        "value": "rasa open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 8,
+        "end": 14,
+        "confidence_entity": 0.5852170586585999,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 20,
+        "end": 22,
+        "confidence_entity": 0.5475819110870361,
+        "value": "or",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 31,
+        "end": 47,
+        "confidence_entity": 0.6135385632514954,
+        "value": "rasa open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is rasa x ee?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 8,
+        "end": 14,
+        "confidence_entity": 0.400454580783844,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I want to build a bot in Hindi",
+    "entities": [
+      {
+        "start": 25,
+        "end": 30,
+        "value": "Hindi",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Can I use Rasa with Thai language",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "value": "Thai",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Will it work for german",
+    "entities": [
+      {
+        "start": 17,
+        "end": 23,
+        "value": "german",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 17,
+        "end": 23,
+        "confidence_entity": 0.3882736563682556,
+        "value": "german",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "does Rasa support other languages like spanish?",
+    "entities": [
+      {
+        "start": 39,
+        "end": 46,
+        "value": "spanish",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how can I add new language to rasa core",
+    "entities": [
+      {
+        "start": 35,
+        "end": 39,
+        "value": "core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 17,
+        "confidence_entity": 0.5193918943405151,
+        "value": "new",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 35,
+        "end": 39,
+        "confidence_entity": 0.9932958483695984,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "your NLU understand spanish?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "value": "NLU",
+        "entity": "product"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "value": "spanish",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 5,
+        "end": 8,
+        "confidence_entity": 0.9589046239852905,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "language",
+        "start": 20,
+        "end": 27,
+        "confidence_entity": 0.9999009370803833,
+        "value": "spanish",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how cost to install Rasa?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "value": "Rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is rasa core paid?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "value": "rasa core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 8,
+        "end": 12,
+        "confidence_entity": 0.976205587387085,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa free",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is rasa stack free",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what is pricing of rasa",
+    "entities": [
+      {
+        "start": 19,
+        "end": 23,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "How do I find out if rasa is open source?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 29,
+        "end": 40,
+        "confidence_entity": 0.8105169534683228,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Is it a open source or any premium offer is available",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Is the rasa software open source?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 7,
+        "end": 11,
+        "confidence_entity": 0.7200496792793274,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 21,
+        "end": 32,
+        "confidence_entity": 0.5242694020271301,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "are you full open source",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 13,
+        "end": 24,
+        "confidence_entity": 0.45494237542152405,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa Open-Source?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 19,
+        "confidence_entity": 0.8562287092208862,
+        "value": "rasa Open-Source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa an open source software?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.4728175103664398,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 11,
+        "end": 22,
+        "confidence_entity": 0.648919403553009,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa is open source?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.5748829245567322,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 11,
+        "end": 22,
+        "confidence_entity": 0.7343191504478455,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa software that is classified as open source?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.45899447798728943,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 39,
+        "end": 50,
+        "confidence_entity": 0.6788507103919983,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is this open source license",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "rasa core is open source?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "rasa core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 5,
+        "end": 9,
+        "confidence_entity": 0.9262822866439819,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "you are open source",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is rasa opensource?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how much is Rasa stack?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "value": "Rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i need a tutorial on how to use rasa core",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 37,
+        "end": 41,
+        "confidence_entity": 0.6428697109222412,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Hey is there a tutorial on how to train an intent cassification model in Python_",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 43,
+        "end": 63,
+        "confidence_entity": 0.7292298674583435,
+        "value": "intent cassification",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "why not use ibm watson",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "current_api",
+        "start": 16,
+        "end": 22,
+        "confidence_entity": 0.9941678047180176,
+        "value": "watson",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i want to know more about nlu and why is it better than watson or luis",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 26,
+        "end": 29,
+        "confidence_entity": 0.4328695237636566,
+        "value": "nlu",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "current_api",
+        "start": 56,
+        "end": 62,
+        "confidence_entity": 0.9558699131011963,
+        "value": "watson",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "current_api",
+        "start": 66,
+        "end": 70,
+        "confidence_entity": 0.9321397542953491,
+        "value": "luis",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "When is the next event in california?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "value": "california",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "When is the next event for India?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "value": "India",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ok, well, then a sales call with the fabulous Theodora Estrada",
+    "entities": [
+      {
+        "start": 46,
+        "end": 62,
+        "value": "Theodora Estrada",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I am a head of business intelligence",
+    "entities": [
+      {
+        "start": 7,
+        "end": 36,
+        "value": "head of business intelligence",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 7,
+        "end": 11,
+        "confidence_entity": 0.8063456416130066,
+        "value": "head",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 15,
+        "end": 23,
+        "confidence_entity": 0.512273907661438,
+        "value": "business",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I am a driver",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 7,
+        "end": 13,
+        "confidence_entity": 0.43405798077583313,
+        "value": "driver",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I work for Bayer",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "value": "Bayer",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 11,
+        "end": 16,
+        "confidence_entity": 0.36383262276649475,
+        "value": "Bayer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I work for the AI research group of the turing centre of the UBC, Vancouver, Canada",
+    "entities": [
+      {
+        "start": 61,
+        "end": 64,
+        "value": "UBC",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 15,
+        "end": 17,
+        "confidence_entity": 0.6824805736541748,
+        "value": "AI",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 40,
+        "end": 46,
+        "confidence_entity": 0.3021090030670166,
+        "value": "turing",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 61,
+        "end": 64,
+        "confidence_entity": 0.3872539699077606,
+        "value": "UBC",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 66,
+        "end": 75,
+        "confidence_entity": 0.28957727551460266,
+        "value": "Vancouver",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 77,
+        "end": 83,
+        "confidence_entity": 0.9229374527931213,
+        "value": "Canada",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a bot developer",
+    "entities": [
+      {
+        "start": 6,
+        "end": 19,
+        "value": "bot developer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.6522449851036072,
+        "value": "developer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a business woman",
+    "entities": [
+      {
+        "start": 6,
+        "end": 20,
+        "value": "business woman",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 6,
+        "end": 14,
+        "confidence_entity": 0.5258378982543945,
+        "value": "business",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a conversation designer",
+    "entities": [
+      {
+        "start": 6,
+        "end": 27,
+        "value": "conversation designer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 19,
+        "end": 27,
+        "confidence_entity": 0.46888235211372375,
+        "value": "designer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a janitor",
+    "entities": [
+      {
+        "start": 6,
+        "end": 13,
+        "value": "janitor",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I'm a machine learning engineer",
+    "entities": [
+      {
+        "start": 6,
+        "end": 31,
+        "value": "machine learning engineer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 23,
+        "end": 31,
+        "confidence_entity": 0.5117257237434387,
+        "value": "engineer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a python developer",
+    "entities": [
+      {
+        "start": 6,
+        "end": 22,
+        "value": "python developer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 13,
+        "end": 22,
+        "confidence_entity": 0.47838541865348816,
+        "value": "developer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm in project mgmt",
+    "entities": [
+      {
+        "start": 7,
+        "end": 19,
+        "value": "project mgmt",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Rasa bot",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.6786864399909973,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "SCALABLE MINDS",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 14,
+        "confidence_entity": 0.9011585116386414,
+        "value": "SCALABLE MINDS",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "ACME Mops",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "ACME Mops",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Bosch",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Bosch",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.8598589897155762,
+        "value": "Bosch",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "COO",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "COO",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "CSI",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "CSI",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Club Mate",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Club Mate",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.6093263626098633,
+        "value": "Club",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I am a freelancer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "I am a freelancer",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 7,
+        "end": 17,
+        "confidence_entity": 0.2504044473171234,
+        "value": "freelancer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Owner",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Owner",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Terri Cline",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Terri Cline",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 6,
+        "end": 11,
+        "confidence_entity": 0.6738473176956177,
+        "value": "Cline",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Zendesk",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Zendesk",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "assistant to the CEO",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "assistant to the CEO",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 17,
+        "end": 20,
+        "confidence_entity": 0.7492048144340515,
+        "value": "CEO",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "botium",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "botium",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "companies",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "companies",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "designer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "designer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "klara health",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "klara health",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "marketing",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "marketing",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "microsoft",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "microsoft",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "no job",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "no job",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "numbers",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "numbers",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "t-mobile US",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "t-mobile US",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.5761822462081909,
+        "value": "t-mobile US",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "time",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "time",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "vodafone",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "vodafone",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "wurst co kg",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "wurst co kg",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "xyz",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "xyz",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "amounts of money",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "value": "money",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.4122999608516693,
+        "value": "amounts",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "company: uber",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "value": "uber",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "get dates from messages",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "dates",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how much money",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "value": "money",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am self emplayed",
+    "entities": [
+      {
+        "start": 5,
+        "end": 18,
+        "value": "self emplayed",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am a projject manager",
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "value": "projject manager",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 16,
+        "end": 23,
+        "confidence_entity": 0.6163244247436523,
+        "value": "manager",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i use anaconda",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 6,
+        "end": 14,
+        "confidence_entity": 0.28056737780570984,
+        "value": "anaconda",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i want to extract names",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "value": "names",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i'm head of sales",
+    "entities": [
+      {
+        "start": 4,
+        "end": 17,
+        "value": "head of sales",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i'm a developer",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 6,
+        "end": 15,
+        "confidence_entity": 0.8921905159950256,
+        "value": "developer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i'm in sales",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "sales",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im a freelancer",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "value": "freelancer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "im in marketing",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "value": "marketing",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 0,
+        "end": 2,
+        "confidence_entity": 0.7703439593315125,
+        "value": "im",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "job_function",
+        "start": 6,
+        "end": 15,
+        "confidence_entity": 0.3674529194831848,
+        "value": "marketing",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "im lonely",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 3,
+        "end": 9,
+        "confidence_entity": 0.380801260471344,
+        "value": "lonely",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "it's a small company from the US, the name is Microsoft",
+    "entities": [
+      {
+        "start": 46,
+        "end": 55,
+        "value": "Microsoft",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "it's the moabit yoga studio",
+    "entities": [
+      {
+        "start": 9,
+        "end": 27,
+        "value": "moabit yoga studio",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "my function is to serve butter",
+    "entities": [
+      {
+        "start": 15,
+        "end": 30,
+        "value": "to serve butter",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "my name is Monica Ser",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "value": "Monica Ser",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 11,
+        "end": 17,
+        "confidence_entity": 0.5580412745475769,
+        "value": "Monica",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "the ice cream factory is the company",
+    "entities": [
+      {
+        "start": 4,
+        "end": 21,
+        "value": "ice cream factory",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "botonic",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "botonic",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "rasa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "botpress",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "botpress",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.5609857439994812,
+        "value": "botpress",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "hi, can you help in understanding NLU",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 34,
+        "end": 37,
+        "confidence_entity": 0.9898476004600525,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what rasa_nlu",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "rasa_nlu",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am new but so how can i start",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "value": "new",
+        "entity": "user_type"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Rada open source",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 16,
+        "confidence_entity": 0.6943551301956177,
+        "value": "Rada open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "NER",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "NER",
+        "entity": "nlu_part"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "custom ner",
+    "entities": [
+      {
+        "start": 7,
+        "end": 10,
+        "value": "ner",
+        "entity": "nlu_part"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "hm intents?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "value": "intents",
+        "entity": "nlu_part"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 3,
+        "end": 10,
+        "confidence_entity": 0.3792945444583893,
+        "value": "intents",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "sorry its ner",
+    "entities": [
+      {
+        "start": 10,
+        "end": 13,
+        "value": "ner",
+        "entity": "nlu_part"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "where to train intents in rasa?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "value": "intents",
+        "entity": "nlu_part"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 15,
+        "end": 22,
+        "confidence_entity": 0.25870975852012634,
+        "value": "intents",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what does NLU server do?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 13,
+        "confidence_entity": 0.6014404296875,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what nlu pipeline would you recommend?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "value": "nlu",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I use wit.ai",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "value": "wit.ai",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "wit",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "wit",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "any open source GUI rasa have?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 4,
+        "end": 15,
+        "confidence_entity": 0.7384914755821228,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa core able to run standalone?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 8,
+        "end": 12,
+        "confidence_entity": 0.9401665925979614,
+        "value": "core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Hello, Sara. How can I configure etnity extraction for russian lnguage?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 50,
+        "value": "etnity extraction",
+        "entity": "nlu_part"
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "value": "russian",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "replace default nlu with custom component",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 16,
+        "end": 19,
+        "confidence_entity": 0.9502512216567993,
+        "value": "nlu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa-core error",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.9292861819267273,
+        "value": "rasa-core",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I am searching the changlog",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 19,
+        "end": 27,
+        "confidence_entity": 0.2737320065498352,
+        "value": "changlog",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Can i use NLU on its own",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 13,
+        "confidence_entity": 0.9806932806968689,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i want to run rasa x in ibm cloud",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 20,
+        "confidence_entity": 0.647068202495575,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "tu parles francais?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 10,
+        "end": 18,
+        "confidence_entity": 0.5176718831062317,
+        "value": "francais",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "But you're an english site :(",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 14,
+        "end": 21,
+        "confidence_entity": 0.9411232471466064,
+        "value": "english",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Find nearest pizzahut",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "value": "pizzahut",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I want french cuisine",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 7,
+        "end": 13,
+        "confidence_entity": 0.6834487915039062,
+        "value": "french",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Kristin, I want to marry you",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Kristin",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "chinese ok?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.9884440302848816,
+        "value": "chinese",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "help with Alma Abrams",
+    "entities": [
+      {
+        "start": 10,
+        "end": 21,
+        "value": "Alma Abrams",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how about NYC",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 13,
+        "confidence_entity": 0.5768983364105225,
+        "value": "NYC",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i am not a developer but need this for business",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 11,
+        "end": 20,
+        "confidence_entity": 0.7677130699157715,
+        "value": "developer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is the capital of delhi",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "location",
+        "start": 23,
+        "end": 28,
+        "confidence_entity": 0.9067962765693665,
+        "value": "delhi",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "who is Sharon Zeches",
+    "entities": [
+      {
+        "start": 7,
+        "end": 20,
+        "value": "Sharon Zeches",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "who is the MD of samsung bangalore ?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 17,
+        "end": 24,
+        "confidence_entity": 0.4592287242412567,
+        "value": "samsung",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "company",
+        "start": 25,
+        "end": 34,
+        "confidence_entity": 0.21038928627967834,
+        "value": "bangalore",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "coronavirus",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.5570362210273743,
+        "value": "coronavirus",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "have you heard of corona?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 18,
+        "end": 24,
+        "confidence_entity": 0.42272597551345825,
+        "value": "corona",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Time, please!",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.8112819194793701,
+        "value": "Time",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Time?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.8294765949249268,
+        "value": "Time",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in newyork?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "location",
+        "start": 23,
+        "end": 30,
+        "confidence_entity": 0.8580049276351929,
+        "value": "newyork",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what's the weather like in LA",
+    "entities": [
+      {
+        "start": 27,
+        "end": 29,
+        "value": "LA",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "whats the temperature in delhi?",
+    "entities": [
+      {
+        "start": 25,
+        "end": 30,
+        "value": "delhi",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "RASA?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.6601897478103638,
+        "value": "RASA",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Rasa Is?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 5,
+        "end": 7,
+        "confidence_entity": 0.6560366153717041,
+        "value": "Is",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is rasa ?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "value": "rasa",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what is this rasa x thing. could you tell me more?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "rasa x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "which UI channel is used by Rasa ?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 6,
+        "end": 8,
+        "confidence_entity": 0.48924875259399414,
+        "value": "UI",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "does the open source version have core?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "value": "open source",
+        "entity": "product"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "value": "core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Can I use Rasa X without using Rasa?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "Rasa X",
+        "entity": "product"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "value": "Rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.6863824725151062,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "How is Rasa X different from Rasa?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 13,
+        "value": "Rasa X",
+        "entity": "product"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "value": "Rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 7,
+        "end": 13,
+        "confidence_entity": 0.6293008327484131,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "If I use Rasa, do I also need Rasa X?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "value": "Rasa",
+        "entity": "product"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "value": "Rasa X",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 30,
+        "end": 36,
+        "confidence_entity": 0.734948992729187,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "What's new in Rasa X compared to Rasa?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "value": "Rasa X",
+        "entity": "product"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "value": "Rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 7,
+        "end": 10,
+        "confidence_entity": 0.5414698719978333,
+        "value": "new",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 20,
+        "confidence_entity": 0.8286332488059998,
+        "value": "Rasa X",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 33,
+        "end": 37,
+        "confidence_entity": 0.6790245175361633,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how does rasa x stack up against rasa",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "value": "rasa x",
+        "entity": "product"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 15,
+        "confidence_entity": 0.6187887787818909,
+        "value": "x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i am using rasa, why would i need rasa x?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "value": "rasa",
+        "entity": "product"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "value": "rasa x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 34,
+        "end": 40,
+        "confidence_entity": 0.851901113986969,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "when should i use rasa and when should i use rasa x",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "value": "rasa",
+        "entity": "product"
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "value": "rasa x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 45,
+        "end": 51,
+        "confidence_entity": 0.5259193181991577,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is the difference between rasaand rasa x",
+    "entities": [
+      {
+        "start": 39,
+        "end": 45,
+        "value": "rasa x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 31,
+        "end": 38,
+        "confidence_entity": 0.5576995015144348,
+        "value": "rasaand",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 39,
+        "end": 45,
+        "confidence_entity": 0.8250476717948914,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what's the rasa x enterprise edition",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 11,
+        "end": 17,
+        "confidence_entity": 0.5872172713279724,
+        "value": "rasa x",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "support for serbian language",
+    "entities": [
+      {
+        "start": 12,
+        "end": 19,
+        "value": "serbian",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "does rasa support other language beside english?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 40,
+        "end": 47,
+        "confidence_entity": 0.9984467625617981,
+        "value": "english",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Could you tell me whether rasa is open source or not?",
+    "entities": [
+      {
+        "start": 34,
+        "end": 45,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Is Rasa a software formatted as open source?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.8476380109786987,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "does rasa fall into the open source software category?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 35,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 5,
+        "end": 9,
+        "confidence_entity": 0.5366997718811035,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "does rasa use open source software?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is it open source",
+    "entities": [
+      {
+        "start": 6,
+        "end": 17,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is it open source?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 17,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is rasa considered open source software?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.9139522910118103,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is rasa like an open source software",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "is the software rasa open source?",
+    "entities": [
+      {
+        "start": 16,
+        "end": 32,
+        "value": "rasa open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 16,
+        "end": 20,
+        "confidence_entity": 0.5988112092018127,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is this open source",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 8,
+        "end": 19,
+        "confidence_entity": 0.6510891318321228,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa is the open source",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "rasa",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.4570956230163574,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "product",
+        "start": 12,
+        "end": 23,
+        "confidence_entity": 0.6195948719978333,
+        "value": "open source",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "would an example of open source software be rasa?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 31,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "would people consider rasa an open source software?",
+    "entities": [
+      {
+        "start": 30,
+        "end": 41,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 22,
+        "end": 26,
+        "confidence_entity": 0.8214948177337646,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "would rasa be open source software?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "value": "open source",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 6,
+        "end": 10,
+        "confidence_entity": 0.7159707546234131,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa nlu tutorial",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 5,
+        "end": 8,
+        "confidence_entity": 0.9162057042121887,
+        "value": "nlu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "you have speech recognition?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 16,
+        "end": 27,
+        "confidence_entity": 0.9017342329025269,
+        "value": "recognition",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "jo",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 2,
+        "confidence_entity": 0.4114445149898529,
+        "value": "jo",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "considering",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "current_api",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.7431111931800842,
+        "value": "considering",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "coolio",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 0,
+        "end": 6,
+        "confidence_entity": 0.6588216423988342,
+        "value": "coolio",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "NEIN",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.5171024799346924,
+        "value": "NEIN",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Neither",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.21908719837665558,
+        "value": "Neither",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "nein",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.5171024799346924,
+        "value": "nein",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "neither",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.21908719837665558,
+        "value": "neither",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "no, my frst time",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 12,
+        "end": 16,
+        "confidence_entity": 0.573756217956543,
+        "value": "time",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Bom dia",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 4,
+        "end": 7,
+        "confidence_entity": 0.4297087788581848,
+        "value": "dia",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "ey boss",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 3,
+        "end": 7,
+        "confidence_entity": 0.3624933063983917,
+        "value": "boss",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "salut",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.305080384016037,
+        "value": "salut",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I have a question about Rasa NLU",
+    "entities": [
+      {
+        "start": 24,
+        "end": 32,
+        "value": "Rasa NLU",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 29,
+        "end": 32,
+        "confidence_entity": 0.9981057643890381,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how is rasa's NLU better than watson 's",
+    "entities": [
+      {
+        "start": 30,
+        "end": 36,
+        "value": "watson",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 17,
+        "confidence_entity": 0.9980456829071045,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "why should i use rasa instead of IBM watson ?",
+    "entities": [
+      {
+        "start": 37,
+        "end": 43,
+        "value": "watson",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what sets rasa apart?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.6819018125534058,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "why not use watson?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "value": "watson",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "What is the next event for Seattle?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "value": "Seattle",
+        "entity": "location"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "a sales call with Rufus Gardner would be nice",
+    "entities": [
+      {
+        "start": 18,
+        "end": 31,
+        "value": "Rufus Gardner",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i would like a call with Mr Hughes",
+    "entities": [
+      {
+        "start": 25,
+        "end": 34,
+        "value": "Mr Hughes",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I am responsible for our innovation department",
+    "entities": [
+      {
+        "start": 25,
+        "end": 46,
+        "value": "innovation department",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I want a bot that sales my product that Catherine Rodriguez finally can focus on important stuff",
+    "entities": [
+      {
+        "start": 40,
+        "end": 59,
+        "value": "Catherine Rodriguez",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I work as a frontend dev",
+    "entities": [
+      {
+        "start": 12,
+        "end": 24,
+        "value": "frontend dev",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 10,
+        "end": 24,
+        "confidence_entity": 0.42677441239356995,
+        "value": "a frontend dev",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I work at EXAMPLE insurance group as Head of Innovation",
+    "entities": [
+      {
+        "start": 10,
+        "end": 33,
+        "value": "EXAMPLE insurance group",
+        "entity": "company"
+      },
+      {
+        "start": 37,
+        "end": 55,
+        "value": "Head of Innovation",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 18,
+        "end": 55,
+        "confidence_entity": 0.5006496906280518,
+        "value": "insurance group as Head of Innovation",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm a construction worker",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "value": "construction worker",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 19,
+        "end": 25,
+        "confidence_entity": 0.7010474801063538,
+        "value": "worker",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "No job",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 0,
+        "end": 6,
+        "confidence_entity": 0.9081671237945557,
+        "value": "No job",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "AI engieer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "AI engieer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Al Capone",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Al Capone",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Angel Robinson company",
+    "entities": [
+      {
+        "start": 0,
+        "end": 22,
+        "value": "Angel Robinson company",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "BCBSM",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "BCBSM",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Denise Armstrong's company",
+    "entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "value": "Denise Armstrong's company",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Elise",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "Elise",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "IBM",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "IBM",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Im Phyllis Howard",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Im Phyllis Howard",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "McKinsey Germany",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "McKinsey Germany",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 9,
+        "end": 16,
+        "confidence_entity": 0.4073234498500824,
+        "value": "Germany",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Mr. Sweney",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Mr. Sweney",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "N26",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "N26",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Rasa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Rasa",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.6601897478103638,
+        "value": "Rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "SAP",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "SAP",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Scalable Minds",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "Scalable Minds",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Software engineer.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Software engineer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 9,
+        "end": 17,
+        "confidence_entity": 0.8319430351257324,
+        "value": "engineer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Steven Carter's company",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "Steven Carter",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "William Zelkind",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "William Zelkind",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "accenture",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "accenture",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "amounts",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "amounts",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "clue",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "clue",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.4228486716747284,
+        "value": "clue",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "custom entity",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "custom entity",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 7,
+        "end": 13,
+        "confidence_entity": 0.6590039134025574,
+        "value": "entity",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "data analyst",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "data analyst",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "dev",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "dev",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "distances",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "distances",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "google enginer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "google enginer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.5871378183364868,
+        "value": "enginer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how long",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "how long",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "italina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "italina",
+        "entity": "language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.44486185908317566,
+        "value": "italina",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "reddit",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "reddit",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "saler",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "value": "saler",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "software developer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "software developer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 9,
+        "end": 18,
+        "confidence_entity": 0.723008394241333,
+        "value": "developer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "software engineer",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "software engineer",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "job_function",
+        "start": 9,
+        "end": 17,
+        "confidence_entity": 0.8319430351257324,
+        "value": "engineer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "susi ai",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "susi ai",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "chief lemonade officer",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 6,
+        "end": 22,
+        "confidence_entity": 0.4938380718231201,
+        "value": "lemonade officer",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "eisenkleber limited co kg",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 11,
+        "confidence_entity": 0.7830505967140198,
+        "value": "eisenkleber",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "company",
+        "start": 12,
+        "end": 25,
+        "confidence_entity": 0.3381919264793396,
+        "value": "limited co kg",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "extracting durations",
+    "entities": [
+      {
+        "start": 11,
+        "end": 20,
+        "value": "durations",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how to extract relationship",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "value": "relationship",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i am interested in ordinals",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "value": "ordinals",
+        "entity": "entity"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i want to built a Eric Jones bot",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "value": "Eric Jones",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i work in biz dev",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "biz dev",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 14,
+        "end": 17,
+        "confidence_entity": 0.704167366027832,
+        "value": "dev",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i'm a race car driver",
+    "entities": [
+      {
+        "start": 6,
+        "end": 21,
+        "value": "race car driver",
+        "entity": "job_function"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "i'm a glibber and glitter salesman",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 26,
+        "end": 34,
+        "confidence_entity": 0.29880085587501526,
+        "value": "salesman",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "it's a tech company, apple",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "value": "apple",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 21,
+        "end": 26,
+        "confidence_entity": 0.5292888283729553,
+        "value": "apple",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "wordpress",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "wordpress",
+        "entity": "company"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I am Aniket",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "value": "Aniket",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sorry  it's not suleman is Shehzad",
+    "entities": [
+      {
+        "start": 16,
+        "end": 23,
+        "value": "suleman",
+        "entity": "name"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "value": "Shehzad",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "x",
+    "entities": [
+      {
+        "start": 0,
+        "end": 1,
+        "value": "x",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Im new",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "value": "new",
+        "entity": "user_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 3,
+        "end": 6,
+        "confidence_entity": 0.3469526469707489,
+        "value": "new",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "new",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "new",
+        "entity": "user_type"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 3,
+        "confidence_entity": 0.6004149913787842,
+        "value": "new",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa core quickstart",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "value": "core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 20,
+        "confidence_entity": 0.4803939759731293,
+        "value": "rasa core quickstart",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "start rasa",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 6,
+        "end": 10,
+        "confidence_entity": 0.7306775450706482,
+        "value": "rasa",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "tell me something about core",
+    "entities": [
+      {
+        "start": 24,
+        "end": 28,
+        "value": "core",
+        "entity": "product"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Could I talk to Tyrone King?",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "value": "Tyrone King",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how to install rasa_nlu",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 15,
+        "end": 23,
+        "confidence_entity": 0.932010293006897,
+        "value": "rasa_nlu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Rasa NLu",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 5,
+        "end": 8,
+        "confidence_entity": 0.999365508556366,
+        "value": "NLu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "nlu pipeline",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 3,
+        "confidence_entity": 0.9611959457397461,
+        "value": "nlu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "subcribe",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.6243337988853455,
+        "value": "subcribe",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I currently use dialog flow",
+    "entities": [
+      {
+        "start": 16,
+        "end": 27,
+        "value": "dialog flow",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "current_api",
+        "start": 16,
+        "end": 22,
+        "confidence_entity": 0.9717158079147339,
+        "value": "dialog",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I want to convert my dialog flow bot to rasa",
+    "entities": [
+      {
+        "start": 21,
+        "end": 32,
+        "value": "dialog flow",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I want to switch from dialog flow",
+    "entities": [
+      {
+        "start": 22,
+        "end": 33,
+        "value": "dialog flow",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "current_api",
+        "start": 22,
+        "end": 28,
+        "confidence_entity": 0.9600181579589844,
+        "value": "dialog",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "bot framework",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "bot framework",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "chatfuel",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "chatfuel",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 8,
+        "confidence_entity": 0.5875640511512756,
+        "value": "chatfuel",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "dialogflow and implementation from scratch",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "dialogflow",
+        "entity": "current_api"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "current_api",
+        "start": 0,
+        "end": 10,
+        "confidence_entity": 0.9854734539985657,
+        "value": "dialogflow",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "current_api",
+        "start": 35,
+        "end": 42,
+        "confidence_entity": 0.6492592692375183,
+        "value": "scratch",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is the difference between you and LUIS",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 39,
+        "end": 43,
+        "confidence_entity": 0.2841334640979767,
+        "value": "LUIS",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa templates",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "entity",
+        "start": 5,
+        "end": 14,
+        "confidence_entity": 0.8054121136665344,
+        "value": "templates",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is the difference between slot and entity",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 40,
+        "end": 46,
+        "confidence_entity": 0.5478779077529907,
+        "value": "entity",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is slot teh same as entity",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 20,
+        "end": 26,
+        "confidence_entity": 0.7083780169487,
+        "value": "entity",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "What does the NLU pipeline do",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 17,
+        "confidence_entity": 0.9910948276519775,
+        "value": "NLU",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what does the nlu pipeline do",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 14,
+        "end": 17,
+        "confidence_entity": 0.9910948276519775,
+        "value": "nlu",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "rasa shell",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 5,
+        "end": 10,
+        "confidence_entity": 0.5750932693481445,
+        "value": "shell",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "what is an intemt",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 11,
+        "end": 17,
+        "confidence_entity": 0.6366819143295288,
+        "value": "intemt",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "Rasa provides me recall and precision?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 17,
+        "end": 23,
+        "confidence_entity": 0.3409600257873535,
+        "value": "recall",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "i want to extract predefined entity from user query",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 29,
+        "end": 35,
+        "confidence_entity": 0.5945343971252441,
+        "value": "entity",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "ch\u00e0o",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.7007200121879578,
+        "value": "ch\u00e0o",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "I'm speaking a non-english language.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 15,
+        "end": 26,
+        "confidence_entity": 0.6952806115150452,
+        "value": "non-english",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "language",
+        "start": 27,
+        "end": 35,
+        "confidence_entity": 0.7740669250488281,
+        "value": "language",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "kya hindi me bat kar sakate ho",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 4,
+        "end": 9,
+        "confidence_entity": 0.9477518796920776,
+        "value": "hindi",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "NLW",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "product",
+        "start": 0,
+        "end": 3,
+        "confidence_entity": 0.6410530805587769,
+        "value": "NLW",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "alexa, order 5 tons of natrium chloride",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 23,
+        "end": 39,
+        "confidence_entity": 0.4102421700954437,
+        "value": "natrium chloride",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "are you russian?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "language",
+        "start": 8,
+        "end": 15,
+        "confidence_entity": 0.9938884973526001,
+        "value": "russian",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "colder",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "nlu_part",
+        "start": 0,
+        "end": 6,
+        "confidence_entity": 0.5169509053230286,
+        "value": "colder",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "doctor",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 0,
+        "end": 6,
+        "confidence_entity": 0.49102768301963806,
+        "value": "doctor",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how are Alicia Jackson's cats doing?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 22,
+        "value": "Alicia Jackson",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "how to go to newyork ?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company",
+        "start": 13,
+        "end": 20,
+        "confidence_entity": 0.32229095697402954,
+        "value": "newyork",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "is John Lewis still married to you",
+    "entities": [
+      {
+        "start": 3,
+        "end": 13,
+        "value": "John Lewis",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "what do you think about Stanley Ramirez?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 39,
+        "value": "Stanley Ramirez",
+        "entity": "name"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "who's Bill Gates?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "name",
+        "start": 11,
+        "end": 16,
+        "confidence_entity": 0.4120432138442993,
+        "value": "Gates",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]
